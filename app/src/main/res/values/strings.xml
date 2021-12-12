@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Plant Watering Reminder</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="my_plants">My Plants</string>
+    <string name="add_new_plant">Add New Plant</string>
+    <string name="add_plants">Add Plants</string>
+    <string name="plant_name">plant name</string>
+    <string name="watering_period_in_days">watering period (in days)</string>
+    <string name="set_time">Set time</string>
+    <string name="next">Next:</string>
+    <string name="plant_reminder_notification_channel_id">plant reminder channel</string>
+    <string name="long_click_to_delete">long click to delete</string>
+</resources>
